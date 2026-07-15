@@ -65,7 +65,7 @@
 
 ---
 
-## 🔐 Login / Signup App
+## 🔐 Login Panel 
 
 📌 A Flutter application with API integration for user authentication and data display.
 
@@ -76,7 +76,7 @@
 - Search functionality
 
 ---
-## 💊 Medication Reminder App
+## 💊 Med Reminder App
 
 📌 A Flutter application that helps users manage medications and receive timely reminders.
 
