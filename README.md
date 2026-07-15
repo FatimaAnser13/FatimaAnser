@@ -2,13 +2,7 @@
 <h3 align="center">🚀 Flutter Developer | Firebase & Supabase Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Mobile+App+Designer;Firebase+%26+Supabase;Building+Clean+UI+Apps&center=true&width=500&height=50">
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FatimaAnser13&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Mobile+App+Developerr;Firebase+%26+Supabase;Building+Clean+UI+Apps&center=true&width=500&height=50">
 </p>
 
 ---
