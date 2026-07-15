@@ -76,6 +76,18 @@
 - Search functionality
 
 ---
+## 💊 Medication Reminder App
+
+📌 A Flutter application that helps users manage medications and receive timely reminders.
+
+✨ Features:
+- Schedule medication reminders
+- Firebase Authentication
+- Cloud Firestore integration
+- Local notifications
+- Responsive UI
+
+---
 
 # 📊 GitHub Stats
 
