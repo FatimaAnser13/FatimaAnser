@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatima</h1>
-<h3 align="center">🚀 Flutter Developer | UI/UX Focused | Firebase Expert</h3>
+<h3 align="center">🚀 Flutter Developer | Firebase Expert</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Mobile+App+Designer;Firebase+Expert;Building+Clean+UI+Apps&center=true&width=500&height=50">
