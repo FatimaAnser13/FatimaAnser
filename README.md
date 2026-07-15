@@ -52,6 +52,18 @@
 - PHP, MySQL, HTML, CSS, Bootstrap & JavaScript
 
 ---
+## 🖥️ Smart Admin Dashboard
+
+📌 A Flutter Web dashboard for monitoring and managing attendance, users, and application data.
+
+✨ Features:
+- User management
+- Attendance analytics
+- Real-time dashboard
+- Search & filtering
+- Responsive web interface
+
+---
 
 ## 🔐 Login / Signup App
 
