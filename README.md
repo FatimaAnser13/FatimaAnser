@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Flutter Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Mobile+App+Developerr;Firebase+%26+Supabase;Building+Clean+UI+Apps&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Mobile+App+Developer;Firebase+%26+Supabase;Build+Clean+UI+Apps&center=true&width=500&height=50">
 </p>
 
 ---
