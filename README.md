@@ -15,7 +15,6 @@
 - 📱 Flutter App Developer
 - 🔥 Firebase & Supabase Integration
 - 🎨 UI/UX Design (Figma)
-- 🌱 Currently learning Advanced Flutter
 
 ---
 
